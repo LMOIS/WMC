@@ -1,0 +1,141 @@
+nav {
+  background-color: yellow;
+  border: 1px solid black;
+  text-align: center;
+  list-style: none;
+  height: 50px;
+  flex-wrap: wrap;
+}
+
+ nav li {
+  text-align: center;
+  text-decoration-line: none;
+  padding: 2px 25px 10px 25px;
+  list-style: none;
+  display: inline-block;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+h1 {
+ text-align: center;
+ text-decoration-line: underline;
+ text-decoration-style: double;
+ text-decoration-color: red;
+ color: red;
+}
+
+html {
+  background-color: black;
+}
+
+.fast_car {
+  background-color: yellow;
+  display: inline-flex;
+  color: black;
+  font-family: fantasy;
+  text-align: center;
+  margin: 10px;
+  border: 5px solid red;
+  height: 300px;
+  width: 720px;
+  padding: 10px;
+}
+
+.tt {
+  word-wrap: normal;
+  font-size: 350%;
+}
+
+.tt_img{
+  display: block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h2 {
+  color: yellow;
+  text-decoration: underline;
+  text-decoration-style:dashed;
+  text-decoration-color: yellow;
+  font-size: 200%;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  width: 500px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  color: yellow;
+  text-align: center;
+}
+
+html {
+  background-color: black;
+}
+iframe{
+  margin-left: 300px;
+}
+
+.WMC {
+  margin-left: 300px;
+  margin-right: 500px;
+  height: 500px;
+  width: 1000px;
+}
+
+p {
+  font-size: 200%;
+  text-align: center;
+  color: yellow;
+}
+
+.ttls {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bike {
+  width: 1000px;
+  height: 675px;
+  margin-left: 300px;
+  margin-right: 200px;
+}
+
+.city {
+  display: inline-block;
+  flex-wrap: wrap;
+  background-color: yellow;
+  color: black;
+  margin: 5px;
+  padding: 25px 50px;
+}
+
+.center {
+  text-align: center;
+  justify-content: center;
+}
+
+h6  {
+  font-size: 400%;
+  text-align: center;
+  color: yellow;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  text-decoration-style: dashed;
+  margin-top: 0px;
+}
+
+.Sol_img {
+  margin-left: 275px;
+  height: 500px;
+  width: 1000px;
+}
